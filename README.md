@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @firdtrmz
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Basic of Programming Languages
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m currently studying Data Science
+- 🌱 I’m currently learning C,Java,R language
 - 📫 How to reach me Instagram: @firdtrmz
 
 <!---
