@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @firdtrmz
+- 👋 Hi, I’m Abang Mohammad Firdaus
 - 👀 I’m currently pursue Bachelor of Data Science
 - 🌱 I’m currently learning C, Java, R language
 - 📫 How to reach me Instagram: @firdtrmz
