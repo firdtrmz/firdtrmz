@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @firdtrmz
-- 👀 I’m currently studying Data Science
-- 🌱 I’m currently learning C,Java,R language
+- 👀 I’m currently pursue Bachelor of Data Science
+- 🌱 I’m currently learning C, Java, R language
 - 📫 How to reach me Instagram: @firdtrmz
 
 <!---
